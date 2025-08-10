@@ -64,7 +64,7 @@ header h1 {
   border-radius: 10px;
 }
 
-main {
+.main {
   padding: 20px;
 }
 
@@ -74,3 +74,4 @@ p {
   color: #666;
   line-height: 1.5;
 }
+
